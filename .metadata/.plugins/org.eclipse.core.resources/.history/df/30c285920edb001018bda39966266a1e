@@ -1,0 +1,5 @@
+package com.example.SchoolService;
+
+public interface SchoolClient {
+
+}
